@@ -15,3 +15,6 @@ For other bits and pieces:
 ### The Documentation
 
 [https://wildcat-protocol.gitbook.io](https://wildcat-protocol.gitbook.io/wildcat/)
+
+### omnirichie EVM address
+### 0x3375e4fab224361dd8278c83bbe7138f4ac4cee2
